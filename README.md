@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Radosław Kaczmarczyk
 
-<!--
-**radoslove/radoslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate and curious developer with a background in pharmacy and a strong interest in technology, databases, and system administration. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on web applications, containerized environments, and database-driven systems—often with a focus on healthcare and pharmacy-related tools. I enjoy solving real-world problems through code and experimenting with my homelab setups (Raspberry Pi, Ubuntu servers, and more).
+
+
+
+🔧 Tech I'm into:
+Python | PHP | JavaScript | MySQL | Docker | Linux | Git | Kubernetes (learning)
+
+
+
+💡 Currently exploring:
+
+Full-stack app deployment
+
+Healthcare software integrations
+
+Kubernetes for self-hosted apps
