@@ -1,4 +1,4 @@
-👋 Hi, I'm Radosław Kaczmarczyk
+👋 Hi, 
 
 
 I'm a passionate and curious developer with a background in pharmacy and a strong interest in technology, databases, and system administration. 
